@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 30808aaf92f4b7346b2e93f78dee76ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - destroyParticle: {fileID: 2665658912781920138, guid: 8ec91af644ed77142ab9747223ddc3f8, type: 3}
+  - asteroid2: {fileID: 7352168469236712101, guid: fd8c4c2736e93304cb762599db06eced, type: 3}
+  - destroySoundObject: {fileID: 2947894333296921071, guid: 570838d6125c93045897c20f0616e0e6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
