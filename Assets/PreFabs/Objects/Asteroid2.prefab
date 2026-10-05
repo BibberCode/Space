@@ -268,4 +268,4 @@ MonoBehaviour:
   destroyParticle: {fileID: 2665658912781920138, guid: 8ec91af644ed77142ab9747223ddc3f8, type: 3}
   asteroid2: {fileID: 7352168469236712101}
   destroySoundObject: {fileID: 2947894333296921071, guid: 570838d6125c93045897c20f0616e0e6, type: 3}
-  UILaser: {fileID: 5968330692367332441, guid: bb7ac67357b9f0343b08ebcac9fa5d90, type: 3}
+  UILaser: {fileID: 0}
